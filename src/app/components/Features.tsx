@@ -43,10 +43,10 @@ export default function Features() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-4">
-            What I Bring to the Table
+            Digital Wellness Solutions for Individuals and Providers
           </h2>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-            A combination of technical skills, creativity, and passion for building exceptional digital experiences.
+            Utilizing the latest tech tools to create solutions that support personal recovery journeys and assist providers in delivering better care.
           </p>
         </div>
 
