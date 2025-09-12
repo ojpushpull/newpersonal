@@ -11,8 +11,7 @@ export default function Footer() {
           <div className="col-span-1 md:col-span-2">
             <h3 className="text-2xl font-bold mb-4">Personal</h3>
             <p className="text-gray-400 mb-4">
-              Building innovative digital experiences with passion and expertise. 
-              Let&apos;s create something amazing together.
+              Helping people live better lives through digital solutions.
             </p>
             <div className="flex space-x-4">
               <a href="#" className="text-gray-400 hover:text-[#06b6d4] transition-colors">
@@ -63,20 +62,21 @@ export default function Footer() {
             </ul>
           </div>
 
-          {/* Contact Info */}
+          {/* Contact Info 
           <div>
             <h4 className="text-lg font-semibold mb-4">Contact</h4>
             <ul className="space-y-2 text-gray-400">
               <li>hello@example.com</li>
               <li>+1 (555) 123-4567</li>
               <li>San Francisco, CA</li>
-            </ul>
-          </div>
-        </div>
+            </ul> 
+          </div>*/}
+        </div> 
+
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center">
           <p className="text-gray-400">
-            &copy; {currentYear} Personal Website. All rights reserved.
+            &copy; {currentYear} Recoverly, All rights reserved.
           </p>
         </div>
       </div>

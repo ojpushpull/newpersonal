@@ -9,17 +9,16 @@ export default function Hero() {
             
             <span className="text-[#3b82f6]"> Recoverly </span>
           </h1>
-          <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Digital solutions focusing on the  personal improvement of the lives of people 
-          living with Substance abuse and mental health /complete mental health here/.
+          <p className="text text-gray-600 mb-8 max-w-3xl mx-auto">
+          Bridging recovery through technology.
           
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button href="/about" variant="primary">
-              Learn More About Me
+              Discover more
             </Button>
             <Button href="/contact" variant="accent">
-              Get In Touch
+             Send a message
             </Button>
           </div>
         </div>

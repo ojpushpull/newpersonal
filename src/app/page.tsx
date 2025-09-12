@@ -8,10 +8,10 @@ import Footer from './components/Footer';
 export default function Homepage() {
   return (
     <main className="min-h-screen">
-      <Header />
+      
       <Hero />
       <Features />
-      <Footer />
+      
     </main>
   );
 }
