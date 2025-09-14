@@ -43,10 +43,10 @@ const Contact = () => {
                 {/* Header */}
                 <div className="text-center mb-16">
                     <h1 className="text-4xl font-bold text-gray-900 mb-4">
-                        
+                    
                     </h1>
                     <p className="text-xl text-gray-600">
-                        Ready to work together? Let's connect and discuss your project.
+                        Send a message always open to discussion.
                     </p>
                 </div>
 
